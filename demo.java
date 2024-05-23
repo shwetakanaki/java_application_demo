@@ -3,5 +3,6 @@ class demo{
 	{
 		System.out.println(" world");
 		System.out.println(" world");
+		int a=10;
 	}
 }
